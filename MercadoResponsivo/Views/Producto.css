@@ -1,0 +1,412 @@
+﻿.body {
+    background-color: #ededed;
+}
+
+.header {
+    background-color: #FFF159;
+    padding: 10px
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.logo {
+    width: 130px;
+}
+
+.buscar {
+    color: #e6e6e6;
+    width: 89%;
+    height: 80%;
+    border: none;
+    border-right: solid 2px #e6e6e6;
+    margin-left: 1%;
+}
+
+.btn {
+    width: 8%;
+}
+
+.buscador {
+    background-color: white;
+}
+
+.tu_coche {
+    width: 70%;
+}
+
+.direction {
+    width: 100%;
+    text-align: end;
+}
+
+.fila2 {
+    padding-top: 1%;
+}
+
+.col-5 .col-1 {
+    font-size: small;
+}
+
+.sub {
+    font-size: 15px;
+    margin: 0px 7px;
+}
+
+.enlace {
+    text-decoration: none;
+    color: black;
+}
+
+.flecha {
+    font-size: 10px;
+}
+
+.tienda {
+    margin-left: 35px;
+}
+
+.abajo {
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.cate {
+    font-size: 10px;
+}
+
+.ayuda {
+    margin-right: 5px;
+}
+
+.carrito {
+    font-size: 20px;
+}
+
+.campana {
+    margin-right: 25px;
+}
+
+.banner {
+    background-image: url('../../Content/Imgs/fonfo.jpg');
+    height: 450px;
+}
+
+.rep {
+    width: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.contenido {
+    background-color: #ededed;
+}
+
+.navegacion {
+    font-size: small;
+    padding: 5px;
+}
+
+    .navegacion a {
+        text-decoration: none;
+        padding-left: 5px;
+    }
+
+.fin {
+    padding-right: 10px;
+}
+
+.disco {
+    background-color: white;
+}
+
+.right {
+    font-size: small;
+    text-align: right;
+}
+
+.den {
+    text-decoration: none;
+}
+
+.costado {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.foto {
+    height: 45px;
+    margin: 5px;
+    padding: 5px;
+    border: solid 1px gray;
+    border-radius: 0.5em;
+}
+
+#one {
+    border: solid 1px blue;
+}
+
+#tercera {
+    width: 45px;
+    height: 55px;
+}
+
+.pequeñas {
+    text-align: center;
+}
+
+.grande {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.grande img {
+    width: 50%;
+}
+
+.info {
+    margin: 5px;
+    margin-top: 20px;
+    border: solid 1px lightgray;
+    border-radius: 0.5em;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    width: 100%;
+}
+
+.new {
+    font-size: 12px;
+    margin-bottom: 1%;
+    color: #c4c4bc;
+}
+
+.nombreProducto {
+    font-size: 140%;
+}
+
+.heart {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 25px;
+    color: #3483fa;
+}
+
+#precio {
+    padding-top: 10px;
+    font-size: 35px;
+    color: #454244;
+}
+
+.medios {
+    text-decoration: none;
+    font-size: small;
+}
+
+.datosEnvio {
+    padding-top: 15px;
+}
+
+.ico {
+    color: #60c892;
+    margin-left: 5px;
+}
+
+#firstLine {
+    color: #60c892;
+}
+
+#resto {
+    font-size: small;
+    color: #c4c4bc;
+}
+
+.who {
+    font-size: 15px;
+    color: #a3a3a0;
+}
+
+    .who a {
+        text-decoration: none;
+    }
+
+.oferta {
+    font-size: 17px;
+}
+
+.preguntar {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 0.5em;
+    font-weight: bold;
+    border: none;
+}
+
+.agregar {
+    margin-top: 3%;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 0.5em;
+    font-weight: bold;
+    background-color: #e3edfb;
+    border: none;
+    color: #3483fa;
+}
+
+.more {
+    font-size: 22px;
+    margin-bottom: 4%;
+}
+
+.discos {
+    overflow: hidden;
+    border: solid 1px lightgray;
+    padding-bottom: 3%;
+    margin-left: 2px;
+    border-radius: 0.4em;
+}
+
+#arriba {
+    padding-bottom: 20px;
+    border-bottom: solid 2px #c4c4bc;
+}
+
+#precioDisco {
+    font-size: 20px;
+    margin: 10px 0px 5px 15px;
+    font-weight: 400;
+}
+
+#acerca {
+    color: #a3a3a1;
+}
+
+.product {
+    padding-top: 3%;
+    width: 95%;
+}
+
+.oferta {
+    margin-bottom: 5%;
+}
+
+    .oferta a {
+        font-size: small;
+        text-decoration: none;
+    }
+
+.informacion {
+    margin-top: 6%;
+    padding-left: 2%
+}
+
+.platinum {
+    font-weight: bold;
+    font-size: 15px;
+    color: #60c892;
+}
+
+.barra img {
+    width: 100%;
+}
+
+.caracteristicas {
+    border-radius: 0.4em;
+}
+
+.fila {
+    height: 60px;
+}
+
+.princ {
+    padding: 0px 10px;
+}
+
+.celda {
+    padding-left: 20px;
+}
+
+.darkgray {
+    background-color: #ebebeb;
+}
+
+.lightgray {
+    background-color: #f5f5f5;
+}
+
+.puntos {
+    padding-left: 18px;
+    font-size: 20px;
+    color: gray;
+}
+
+#magazine {
+    font-size: 22px;
+}
+
+.devolucion {
+    border-top: solid 1px black;
+    margin-top: 6%;
+    padding-left: 2%
+}
+
+#tarjeta {
+    font-size: 15px;
+}
+
+.anuncios {
+    text-align: right;
+}
+
+.sugerencias {
+    width: 100%;
+}
+
+.espacio {
+    margin-left: 5px;
+    padding-top: 5px;
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+#gratis {
+    color: #60c892;
+}
+
+#infoEspacios {
+    font-size: 14px;
+}
+
+.giphy-embed {
+    width: 100%;
+    height: 270px;
+}
+
+.imgpago {
+    width: 100%;
+}
+
+.pago {
+    width: 50%;
+}
+
+#otso{
+    width:30%;
+}
+
+.ofertachico a {
+    text-decoration: none;
+    color: #60c892;
+}
+
+.car a{
+    padding-left: 8px;
+    text-decoration: none;
+}
